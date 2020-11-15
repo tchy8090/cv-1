@@ -1,0 +1,40 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+.one {
+	background-color: skyblue;
+	text-align: center;
+}
+
+.b1 {
+	height: 40px;
+	background-color: #685fed;
+	border-radius: 12px;
+}
+.b1:hover {
+	background-color: #c95df0;
+	border-radius: 12px;
+	font-size: 15px;
+	transition: 2s;
+}
+
+
+.b2 {
+	height: 40px;
+	background-color: #685fed;
+	border-radius: 12px;
+}
+
+.b2:hover {
+	background-color: #c95df0;
+	border-radius: 12px;
+	font-size: 15px;
+	transition: 2s;
+}
+
+p{
+	font-size: 30px;
+	margin: 40px;
+}
